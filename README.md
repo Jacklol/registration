@@ -1,8 +1,8 @@
 
 
-# NPM INSTALL    
+# for run   
 
-# `ng serve` 
+# `npm install`  `ng serve` 
 
 
 
