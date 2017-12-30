@@ -1,10 +1,5 @@
 
 
-# for run   
-
-# `npm install`  `ng serve` 
-
-
 
 # StartPage
 
