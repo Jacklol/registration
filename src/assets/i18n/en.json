@@ -1,0 +1,13 @@
+{
+    "ChooseLang":"Choose Lang",
+    "Title": "Registration",
+    "Name": "Input your name",
+    "Login":"Login",
+    "Email":  "Email",
+    "Password":"Password",
+    "RePassword": "Repeat Password",
+    "Registration":"registration",
+    "Conformation":"Conformation",
+    "WelcomeUser":"WelcomeUser {{name}}",
+   "GoToRegistration":"Go to registration"
+}
