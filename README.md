@@ -3,7 +3,7 @@
 
 #  npm install 
 
-# cd registration
+# cd registration (registration-master) (name of project)
 
 # ng serve
 
