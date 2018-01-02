@@ -1,4 +1,11 @@
 
+# npm install -g @angular/cli
+
+# StartPage npm install 
+
+# cd registration
+
+# ng serve
 
 
 # StartPage
