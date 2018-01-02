@@ -1,9 +1,10 @@
 
 # npm install -g @angular/cli
 
-#  npm install 
 
 # cd registration (registration-master) (name of project)
+
+#  npm install 
 
 # ng serve
 
