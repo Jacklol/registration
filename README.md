@@ -1,7 +1,7 @@
 
 # npm install -g @angular/cli
 
-# StartPage npm install 
+#  npm install 
 
 # cd registration
 
